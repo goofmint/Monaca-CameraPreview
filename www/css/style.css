@@ -1,5 +1,10 @@
 /**/
 
 .actions {
+  vertical-align: bottom;
   margin-top: 380px;
+}
+
+#preview {
+  margin: 0 0 -16px 5px;
 }
